@@ -1,4 +1,4 @@
-# Welcome To Axon.
-Introducing Axon Games by [Peretas Technologies](https://peretas.tech/)
-
-## The next generation of unblocked games.
+<h1 align="center">Introducing Axon.</h1>
+<div align="center">
+Introducing Axon, the best unblocked games website.
+</div>
